@@ -2,6 +2,7 @@
   padding: 2em;
   margin: 0 auto;
   text-align: center;
+  width: 400px;
   box-shadow: var(--shadow);
   transition: transform 0.2s linear;
 }
